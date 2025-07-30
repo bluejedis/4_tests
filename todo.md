@@ -13,7 +13,7 @@
   - [ ] OS
     - [ ] 概述
       - [x] concept
-      - [ ] 历程
+      - [x] 历程
       - [ ] 运行环境
       - [ ] Virtual machine
     - [ ] 进程&线程
