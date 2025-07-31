@@ -15,7 +15,7 @@
       - [x] concept
       - [x] 历程
       - [ ] 运行环境
-      - [ ] Virtual machine
+      - [x] Virtual machine
     - [ ] 进程&线程
     - [ ] 内存
     - [ ] 文件
